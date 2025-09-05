@@ -64,7 +64,7 @@ The analysis covers **data cleaning, exploratory data analysis (EDA), and insigh
 1. Clone this repository
 
    ```bash
-   git clone https://github.com/your-username/airBnB-paris.git
+   git clone https://github.com/Digvijay-14/AirBnB-Paris
    cd airBnB Paris
    ```
 
