@@ -53,7 +53,7 @@ The analysis covers **data cleaning, exploratory data analysis (EDA), and insigh
 ├── notebooks/             # Jupyter notebooks
 ├── images/                # Visualizations exported from notebooks
 ├── requirements.txt       # Dependencies
-├── Code Of Project        #https://www.kaggle.com/code/digvijayrajput14/airbnb-b6
+├── Code 
 ├── README.md              # Project overview (this file)
 ```
 
@@ -95,11 +95,11 @@ Here are some key visualizations from the analysis:
   ![Price by Locality](Image/WhatsApp Image 2025-09-05 at 17.58.31_d310e0ab.jpg)
 
 * **Impact of 2017 Regulation on Host Entries**
-  ![Regulation Impact](images/regulation_impact.png)
+  ![Regulation Impact](Image/WhatsApp Image 2025-09-05 at 17.58.31_d3a19a17.jpg)
 
 
 ## Code Of Project On Kaggle
-  https://www.kaggle.com/code/digvijayrajput14/airbnb-b6
+ link: https://www.kaggle.com/code/digvijayrajput14/airbnb-b6
 
 
 
