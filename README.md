@@ -92,7 +92,7 @@ Here are some key visualizations from the analysis:
   ![Listings Growth](Image/WhatsApp Image 2025-09-05 at 17.58.31_0c654c63.jpg)
 
 * **Average Price by Locality**
-  ![Price by Locality](https://jingwen-z.github.io/airbnb-paris-analysis/assets/heatmap_example.png)
+  ![Price by Locality](Image/WhatsApp Image 2025-09-05 at 17.58.31_d310e0ab.jpg)
 
 * **Impact of 2017 Regulation on Host Entries**
   ![Regulation Impact](images/regulation_impact.png)
