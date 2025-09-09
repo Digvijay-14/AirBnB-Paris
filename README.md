@@ -93,7 +93,7 @@ Here are some key visualizations from the analysis:
   ![Listings Growth](build/listing_growth.jpg)
 
 * **Average Price by Locality**
-  ![Price by Locality](Image/WhatsApp Image 2025-09-05 at 17.58.31_d310e0ab.jpg)
+  ![Price by Locality](build/Price_Locality.png)
 
 * **Impact of 2017 Regulation on Host Entries**
   ![Regulation Impact](Image/WhatsApp Image 2025-09-05 at 17.58.31_d3a19a17.jpg)
