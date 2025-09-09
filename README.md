@@ -1,5 +1,5 @@
-(![Paris Airbnb](https://www.bosshunting.com.au/wp-content/uploads/2020/03/paris-airbnb-2-1.jpg
-)
+![Paris Airbnb](https://www.bosshunting.com.au/wp-content/uploads/2020/03/paris-airbnb-2-1.jpg)
+
 
 # 🏠 AirBnB-Paris 
 
