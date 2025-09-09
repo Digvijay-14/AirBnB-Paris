@@ -1,4 +1,5 @@
-![Stunning Paris Airbnb](https://tse2.mm.bing.net/th/id/OIP.61vW-v0Z-YbsFn7zaq4WNQHaE8?pid=Api&P=0&h=180)
+(![Paris Airbnb](https://www.bosshunting.com.au/wp-content/uploads/2020/03/paris-airbnb-2-1.jpg
+)
 
 # 🏠 AirBnB-Paris 
 
@@ -98,9 +99,12 @@ Here are some key visualizations from the analysis:
   ![Regulation Impact](Image/WhatsApp Image 2025-09-05 at 17.58.31_d3a19a17.jpg)
 
 
-## Code Of Project On Kaggle
- link: https://www.kaggle.com/code/digvijayrajput14/airbnb-b6
 
+--------
+
+##code of project on kaggle :
+
+link :Check out my project on Kaggle: [Click here to Open Project](https://www.kaggle.com/code/digvijayrajput14/airbnb-b6)
 
 
 ## 🙌 Acknowledgments
